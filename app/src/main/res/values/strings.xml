@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Password_Manager</string>
+    <string name="desctiption">desctiption</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="add_new_account">Add New Account</string>
+    <string name="enter_account_name">Enter Account Name</string>
+    <string name="google">Google</string>
+    <string name="password_char">****</string>
+    <string name="description">description</string>
+    <string name="account_details">Account Details</string>
+    <string name="enter_username_email">Enter Username/Email</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="generate_password">Generate Password</string>
+</resources>
